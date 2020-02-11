@@ -1,5 +1,5 @@
 package pack_study3
-// 매개변수에 람다식 함수 이용한 고차함수
+// 매개변수에 람다식 함수 이용 고차함수
 
 fun main() {
     var result : Int
