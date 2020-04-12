@@ -5,7 +5,7 @@ import pack_study3.criticalFunc
 import pack_study3.lock
 import java.util.concurrent.locks.ReentrantLock
 
-var sharable = 1
+var sharable = 4
 // 보호가 필요한 공유자원
 // 여러 루틴에서 접근 가능!
 
